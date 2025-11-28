@@ -11,9 +11,13 @@ Este repositório contém todos os scripts SQL desenvolvidos para o projeto **M�
 /EP4-SQL
 │
 ├── create_tables.sql
+
 ├── insert_data.sql
+
 ├── queries.sql
+
 ├── updates.sql
+
 ├── deletes.sql
 
 
