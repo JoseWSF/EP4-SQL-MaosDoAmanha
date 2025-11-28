@@ -1,6 +1,6 @@
 # EP4-SQL-MaosDoAmanha
 
-# Experiência Prática IV — Banco de Dados SQL (MySQL)
+# Banco de Dados SQL (MySQL)
 
 Este repositório contém todos os scripts SQL desenvolvidos para o projeto **Mãos do Amanhã**, incluindo criação de tabelas, inserção de dados, consultas, atualizações e exclusões.
 
