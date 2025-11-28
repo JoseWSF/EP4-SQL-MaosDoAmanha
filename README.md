@@ -9,6 +9,7 @@ Este repositório contém todos os scripts SQL desenvolvidos para o projeto **M�
 ## 📁 Estrutura do Repositório
 
 /EP4-SQL
+
 │
 
 ├── create_tables.sql
